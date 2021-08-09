@@ -7,5 +7,5 @@ This model helps to identify fake news or false information using machine learni
 ## Screenshots
 
 ![Screenshot](https://github.com/SwatejPatil/Fake-News-Detection/blob/main/demo.PNG)
-![Screenshot](https://drive.google.com/file/d/1wdmY2li5nxdtRyeZcgFJQ4xO7tUlKNuI/view?usp=sharing)
+![Screenshot](https://github.com/SwatejPatil/Fake-News-Detection/blob/main/demo2.PNG)
   
