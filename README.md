@@ -8,4 +8,6 @@ This model helps to identify fake news or false information using machine learni
 
 ![Screenshot](https://github.com/SwatejPatil/Fake-News-Detection/blob/main/demo.PNG)
 ![Screenshot](https://github.com/SwatejPatil/Fake-News-Detection/blob/main/demo2.PNG)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwatejPatil&repo=Fake-News-Detection&theme=default_repocard&show_owner=true)](https://github.com/SwatejPatil/Fake-News-Detection)
   
